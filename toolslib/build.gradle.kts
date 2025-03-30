@@ -56,7 +56,7 @@ afterEvaluate {
     publishing {
         publications {
             create<MavenPublication>("release") {
-                groupId = "com.github.hasen"
+                groupId = "com.github.18276706897"
                 artifactId = "android-tools"
                 version = "1.0.0"
 
