@@ -56,5 +56,5 @@ dependencies {
     androidTestImplementation(libs.androidx.ui.test.junit4)
     debugImplementation(libs.androidx.ui.tooling)
     debugImplementation(libs.androidx.ui.test.manifest)
-    implementation("com.github.18276706897:android-tools:1.0.0")
+    implementation("com.github.18276706897:android-tools:1.0.1")
 }
