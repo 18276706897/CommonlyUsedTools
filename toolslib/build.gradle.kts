@@ -58,7 +58,7 @@ afterEvaluate {
             create<MavenPublication>("release") {
                 groupId = "com.github.18276706897"
                 artifactId = "android-tools"
-                version = "1.0.0"
+                version = "v1.0.0"
 
                 from(components["release"])
             }
